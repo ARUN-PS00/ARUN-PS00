@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:1e3a8a&text=ARUN%20PS&fontColor=ffffff&fontSize=60&animation=fadeIn&desc=Building%20things%20with%20code.&descAlignY=60" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Animated Coding Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -33,11 +33,21 @@
 
 ---
 
-## 🎮 Contribution Retro Game
+## 🔴🟡 Connect 4
 
-<!-- IMPORTANT: You must set up the Platane Snake GitHub Action in your ARUN-PS00 repository for this to work. Once set up, the link below will render YOUR snake. -->
+**Click a column below to drop your piece and play against other visitors!**
+
+<!-- readme-connect-4-start -->
+<!-- readme-connect-4-end -->
+
+---
+
+## 🏆 GitHub Achievements
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ARUN-PS00/ARUN-PS00/output/github-contribution-grid-snake-dark.svg" alt="Pacman Eating Contributions" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ARUN-PS00&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="ARUN-PS00 Trophies" />
+  </a>
 </p>
 
 ---

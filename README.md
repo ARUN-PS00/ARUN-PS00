@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Arun
 
-<!--
-**ARUN-PS00/ARUN-PS00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 CSE Student
+- 🤖 Learning AI & Machine Learning
+- 🌐 Learning Full Stack Development
+- 🔥 Building an AI Study Assistant
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Python
+- Java
+- JavaScript
+- React
+- Firebase
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARUN-PS00&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ARUN-PS00&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARUN-PS00&layout=compact&theme=tokyonight)

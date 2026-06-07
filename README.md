@@ -39,9 +39,7 @@
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Pacman Eating Contributions" />
 </p>
 
-> 💡 **Tip:** To activate the automated Pac-Man game animation parsing your actual GitHub grid, you can set up the GitHub Action workflow whenever you're ready!
 
----
 
 ## 📈 GitHub Activity
 

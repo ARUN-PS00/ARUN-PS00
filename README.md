@@ -35,11 +35,12 @@
 
 ## 🎮 Contribution Retro Game
 
+<!-- IMPORTANT: You must set up the Platane Snake GitHub Action in your ARUN-PS00 repository for this to work. Once set up, the link below will render YOUR snake. -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Pacman Eating Contributions" />
+  <img src="https://raw.githubusercontent.com/ARUN-PS00/ARUN-PS00/output/github-contribution-grid-snake-dark.svg" alt="Pacman Eating Contributions" />
 </p>
 
-
+---
 
 ## 📈 GitHub Activity
 
@@ -63,7 +64,9 @@
 ## 🎵 Now Playing
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=twark" alt="Spotify Now Playing" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31oullrne76xmuflcoblakbbnbmy&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31oullrne76xmuflcoblakbbnbmy&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=light" alt="Spotify Now Playing" />
+  </a>
 </p>
 
 ---
